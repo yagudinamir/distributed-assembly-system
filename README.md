@@ -1,5 +1,5 @@
-# distbuild
-Distributed build system. The build system receives the build graph and source files as input. Build result
+# Distributed build system. 
+The build system receives the build graph and source files as input. Build result
  are executable files and stderr / stdout of running processes
 
 
